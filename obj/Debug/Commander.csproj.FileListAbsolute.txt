@@ -1,0 +1,45 @@
+c:\users\jeka\documents\visual studio 2013\Projects\Commander\Commander\bin\Debug\Commander.exe.config
+c:\users\jeka\documents\visual studio 2013\Projects\Commander\Commander\bin\Debug\Commander.exe
+c:\users\jeka\documents\visual studio 2013\Projects\Commander\Commander\bin\Debug\Commander.pdb
+c:\users\jeka\documents\visual studio 2013\Projects\Commander\Commander\obj\Debug\Commander.csprojResolveAssemblyReference.cache
+c:\users\jeka\documents\visual studio 2013\Projects\Commander\Commander\obj\Debug\MainWindow.baml
+c:\users\jeka\documents\visual studio 2013\Projects\Commander\Commander\obj\Debug\MainWindow.g.cs
+c:\users\jeka\documents\visual studio 2013\Projects\Commander\Commander\obj\Debug\App.g.cs
+c:\users\jeka\documents\visual studio 2013\Projects\Commander\Commander\obj\Debug\Commander_MarkupCompile.cache
+c:\users\jeka\documents\visual studio 2013\Projects\Commander\Commander\obj\Debug\Commander.g.resources
+c:\users\jeka\documents\visual studio 2013\Projects\Commander\Commander\obj\Debug\Commander.csproj.GenerateResource.Cache
+c:\users\jeka\documents\visual studio 2013\Projects\Commander\Commander\obj\Debug\Commander.exe
+c:\users\jeka\documents\visual studio 2013\Projects\Commander\Commander\obj\Debug\Commander.pdb
+C:\Users\Jeka\documents\visual studio 2013\Projects\Commander\Commander\obj\Debug\YOBA_Commander.Properties.Resources.resources
+C:\Users\Jeka\documents\visual studio 2013\Projects\Commander\Commander\obj\Debug\Views\FindFilesWindow.baml
+C:\Users\Jeka\documents\visual studio 2013\Projects\Commander\Commander\obj\Debug\Views\FindFilesWindow.g.cs
+d:\C#\Projects\Commander\Commander\bin\Debug\Commander.exe.config
+d:\C#\Projects\Commander\Commander\bin\Debug\Commander.exe
+d:\C#\Projects\Commander\Commander\bin\Debug\Commander.pdb
+d:\C#\Projects\Commander\Commander\obj\Debug\Commander.csprojResolveAssemblyReference.cache
+d:\C#\Projects\Commander\Commander\obj\Debug\MainWindow.baml
+d:\C#\Projects\Commander\Commander\obj\Debug\Views\FindFilesWindow.baml
+d:\C#\Projects\Commander\Commander\obj\Debug\MainWindow.g.cs
+d:\C#\Projects\Commander\Commander\obj\Debug\Views\FindFilesWindow.g.cs
+d:\C#\Projects\Commander\Commander\obj\Debug\App.g.cs
+d:\C#\Projects\Commander\Commander\obj\Debug\Commander_MarkupCompile.cache
+d:\C#\Projects\Commander\Commander\obj\Debug\Commander.g.resources
+d:\C#\Projects\Commander\Commander\obj\Debug\YOBA_Commander.Properties.Resources.resources
+d:\C#\Projects\Commander\Commander\obj\Debug\Commander.csproj.GenerateResource.Cache
+d:\C#\Projects\Commander\Commander\obj\Debug\Commander.exe
+d:\C#\Projects\Commander\Commander\obj\Debug\Commander.pdb
+C:\Users\Jeka\Desktop\Commander\Commander\bin\Debug\Commander.exe.config
+C:\Users\Jeka\Desktop\Commander\Commander\bin\Debug\Commander.exe
+C:\Users\Jeka\Desktop\Commander\Commander\bin\Debug\Commander.pdb
+C:\Users\Jeka\Desktop\Commander\Commander\obj\Debug\Commander.csprojResolveAssemblyReference.cache
+C:\Users\Jeka\Desktop\Commander\Commander\obj\Debug\MainWindow.baml
+C:\Users\Jeka\Desktop\Commander\Commander\obj\Debug\Views\FindFilesWindow.baml
+C:\Users\Jeka\Desktop\Commander\Commander\obj\Debug\MainWindow.g.cs
+C:\Users\Jeka\Desktop\Commander\Commander\obj\Debug\Views\FindFilesWindow.g.cs
+C:\Users\Jeka\Desktop\Commander\Commander\obj\Debug\App.g.cs
+C:\Users\Jeka\Desktop\Commander\Commander\obj\Debug\Commander_MarkupCompile.cache
+C:\Users\Jeka\Desktop\Commander\Commander\obj\Debug\Commander.g.resources
+C:\Users\Jeka\Desktop\Commander\Commander\obj\Debug\YOBA_Commander.Properties.Resources.resources
+C:\Users\Jeka\Desktop\Commander\Commander\obj\Debug\Commander.csproj.GenerateResource.Cache
+C:\Users\Jeka\Desktop\Commander\Commander\obj\Debug\Commander.exe
+C:\Users\Jeka\Desktop\Commander\Commander\obj\Debug\Commander.pdb

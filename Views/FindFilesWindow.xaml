@@ -1,0 +1,44 @@
+﻿<Window x:Class="Commander_v2.Views.FindFilesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FindFilesWindow" Height="700" Width="500"
+        Background="AntiqueWhite">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="28"/>
+            <RowDefinition Height="100*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="100"/>
+        </Grid.ColumnDefinitions>        
+        <DockPanel Grid.Column="0" Grid.Row="0">
+            <Label VerticalAlignment="Center">Search for: </Label>
+            <TextBox Text="{Binding SearchModel.SearchName}" Width="300" Height="25"  HorizontalAlignment="Right" Margin="0,0,10,0"/>
+        </DockPanel>
+        <DockPanel Grid.Column="0" Grid.Row="1">
+            <Label VerticalAlignment="Center">Search in:</Label>
+            <TextBox Text="{Binding SearchModel.CurrPath}" Width="200" Height="25" Margin="20,8,5,8"/>
+            <Button Height="25" VerticalAlignment="Center" Width="25">>></Button>
+            <Button Height="25" VerticalAlignment="Center" Width="60" Margin="0,0,5,0">Drives</Button>
+        </DockPanel>
+        <DockPanel Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2">
+            <Label VerticalAlignment="Center">Search results:</Label>
+        </DockPanel>
+        <DockPanel Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="2">
+            <ListView x:Name="FFWindow" Margin="3" SelectedItem="{Binding FFWselect}" ItemsSource="{Binding SearchModel.FilesFound}">
+                <ListView.InputBindings>
+                    <MouseBinding MouseAction="LeftDoubleClick"/>
+                </ListView.InputBindings>
+
+            </ListView>            
+        </DockPanel>
+        <StackPanel Grid.Column="1" Grid.Row="0" Grid.RowSpan="2" Orientation="Vertical">
+            <Button Name="SearchButton" Command="{Binding SearchCommand}" Height="25" Margin="5,5,5,0">Start search</Button>
+            <Button Height="25" Margin="5,5,5,0" Command="{Binding OpenFileCommand}">Cancel</Button>
+            
+        </StackPanel>
+    </Grid>
+</Window>
